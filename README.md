@@ -83,36 +83,40 @@ DevDash-master/
 
 ---
 
-## 🧪 Getting Started
+## 🧪 Run the App
 
-### 1. Clone the Repository
+Simply open `index.html` in your browser — no installation needed!
 
-```bash
-git clone https://github.com/subuhana2303/DevDash_Project.git
-cd DevDash_Project
+> 💡 **Tip:** For full widget functionality, ensure you're connected to the internet.
 
-Run the App
-Simply open index.html in your browser — no installation needed!
-
-💡 Tip: For full widget functionality, make sure you're connected to the internet.
+---
 
 ## 🤝 Contribution Guidelines
-Contributions, suggestions, and feedback are welcome!
+
+Contributions, suggestions, and feedback are welcome!  
 Feel free to:
 
-📌 Fork the repository
+- 📌 Fork the repository  
+- 🛠 Create a new branch  
+- 🔃 Submit a pull request  
 
-🛠 Create a new branch
+Help make **DevDash** even better for the dev community 💙
 
-🔃 Submit a pull request
+---
 
-Help make DevDash even better for the dev community 💙
+## 📜 License
 
-📜 License
-This project is licensed under the MIT License.
-See the LICENSE file for full details.
+This project is licensed under the **MIT License**.  
+See the [LICENSE](LICENSE) file for full details.
 
-👩‍💻 Author
-Subuhana Basheer
-GitHub: @subuhana2303
+---
+
+## 👩‍💻 Author
+
+**Subuhana Basheer**  
+GitHub: [@subuhana2303](https://github.com/subuhana2303)  
 Email: your.email@example.com
+
+---
+
+> _“Simplicity is the soul of efficiency.” – Austin Freeman_
