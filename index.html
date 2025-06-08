@@ -1,0 +1,30 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <title>DevDash - Developer Dashboard</title>
+  <link href="https://cdn.jsdelivr.net/npm/tailwindcss@2.2.19/dist/tailwind.min.css" rel="stylesheet">
+  <link rel="stylesheet" href="styles/main.css" />
+  <script defer src="js/app.js"></script>
+</head>
+<body class="bg-gray-900 text-white font-mono">
+  <header class="flex justify-between items-center p-6 bg-gray-800 shadow-lg">
+    <h1 class="text-2xl text-blue-400 font-bold">🧠 DevDash</h1>
+    <nav>
+      <ul class="flex space-x-4">
+        <li><a href="#todo" class="hover:text-blue-400">Tasks</a></li>
+        <li><a href="#weather" class="hover:text-blue-400">Weather</a></li>
+        <li><a href="#github" class="hover:text-blue-400">GitHub</a></li>
+        <li><a href="#markdown" class="hover:text-blue-400">Notes</a></li>
+      </ul>
+    </nav>
+  </header>
+  <main id="dashboard" class="p-6 grid grid-cols-1 md:grid-cols-2 xl:grid-cols-3 gap-6">
+    <!-- Widgets dynamically inserted by app.js -->
+  </main>
+  <footer class="text-center p-4 bg-gray-800 border-t border-gray-700">
+    🚀 Built with ❤️ by Subuhana | DevDash © 2025
+  </footer>
+</body>
+</html>
