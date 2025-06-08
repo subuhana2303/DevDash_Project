@@ -75,9 +75,4 @@ GitHub | your.email@example.com
 
 “The best way to get started is to quit talking and begin doing.” – Walt Disney
 
----
-
-Just select all, copy, and paste it into your `README.md` file — it will keep the formatting and be neat on GitHub.
-
-If you want, I can help you add images, GIFs, or badges next!
 
