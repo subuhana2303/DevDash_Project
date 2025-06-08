@@ -15,20 +15,20 @@
 ## 🗂️ Project Structure
 
 /DevDash-master/
-├── index.html # Main HTML page
-├── style.css # Tailwind CSS + custom styles
-├── js/
-│ ├── app.js # Dashboard loader + drag & drop logic
-│ ├── utils/
-│ │ └── storage.js # localStorage helper functions
-│ └── widgets/
-│ ├── clock.js # Clock widget
-│ ├── todo.js # Todo list widget
-│ ├── quote.js # Quote widget
-│ ├── weather.js # Weather widget
-│ ├── github.js # GitHub stats widget
-│ └── markdown.js # Markdown preview widget
-└── README.md
+  index.html           # Main HTML page
+  style.css            # Tailwind CSS + custom styles
+  js/
+    app.js             # Dashboard loader + drag & drop logic
+    utils/
+      storage.js       # localStorage helper functions
+    widgets/
+      clock.js         # Clock widget
+      todo.js          # Todo list widget
+      quote.js         # Quote widget
+      weather.js       # Weather widget
+      github.js        # GitHub stats widget
+      markdown.js      # Markdown preview widget
+  README.md
 
 
 ---
