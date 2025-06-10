@@ -91,7 +91,8 @@ Simply open `index.html` in your browser — no installation needed!
 
 ---
 <h3 align="center">🎞️ Demo</h3>
-![11760708-0905-49a7-802e-7b286b531687](https://github.com/user-attachments/assets/b12c9eb1-8ef6-4597-b248-adc0837499f2)
+
+![Demo Screenshot](./assets/demo.png)
 
 ---
 
