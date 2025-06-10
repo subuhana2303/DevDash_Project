@@ -90,6 +90,10 @@ Simply open `index.html` in your browser — no installation needed!
 > 💡 **Tip:** For full widget functionality, ensure you're connected to the internet.
 
 ---
+<h3 align="center">🎞️ Demo</h3>
+![11760708-0905-49a7-802e-7b286b531687](https://github.com/user-attachments/assets/b12c9eb1-8ef6-4597-b248-adc0837499f2)
+
+---
 
 ## 🤝 Contribution Guidelines
 
