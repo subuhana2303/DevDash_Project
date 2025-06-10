@@ -92,7 +92,9 @@ Simply open `index.html` in your browser — no installation needed!
 ---
 <h3 align="center">🎞️ Demo</h3>
 
-![Uploading DevDash Developer Dashboard Overview.png…]()
+
+![output devdash_project](https://github.com/user-attachments/assets/f5e276ea-2289-473e-9fb7-22e6b9c19066)
+
 
 
 ---
