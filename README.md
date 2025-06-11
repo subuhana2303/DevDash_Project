@@ -123,7 +123,8 @@ See the [LICENSE](LICENSE) file for full details.
 
 **Subuhana Basheer**  
 GitHub: [@subuhana2303](https://github.com/subuhana2303)  
-Email: your.email@example.com
+Email: subuhanabasheer41@gmail.com
+
 
 ---
 
